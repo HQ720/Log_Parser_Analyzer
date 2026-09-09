@@ -80,7 +80,7 @@ There are probably plenty of other things I haven't even thought of yet, so I'll
 
 I'm not expecting this first version to be perfect, and that's not really the point. I wanted to take what I've learned so far, build something myself and see where I could get with it.
 
-I've really enjoyed making this and I'm looking forward to seeing how different this project looks after I've learned more Python. **This is only version 1. 🚀**
+I've really enjoyed making this and I'm looking forward to seeing how different this project looks after I've learned more Python. **This is only version 1. **
 
 If anyone more experienced sees something I could improve or something I've done wrong, please feel free to comment and let me know. I'm still learning, so any advice or constructive feedback is appreciated.
 
